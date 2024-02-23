@@ -3,7 +3,7 @@
 
 Hi! My name is **Jitendra Nishad **, I have created this  MERN Stack Project
 
-
+create uploads folder in root directory
 
 # Install Dependencies
 
